@@ -20,7 +20,7 @@ U 1 1 5C191ABD
 P 1150 2400
 F 0 "T1" H 1150 2781 50  0000 C CNN
 F 1 "Transformer_1P_1S" H 1150 2690 50  0000 C CNN
-F 2 "pedal-psu:Transformer_V42AJ" H 1150 2400 50  0001 C CNN
+F 2 "PartsStash:Transformer_V42AJ" H 1150 2400 50  0001 C CNN
 F 3 "~" H 1150 2400 50  0001 C CNN
 	1    1150 2400
 	0    -1   -1   0   
@@ -31,7 +31,7 @@ U 1 1 5C194849
 P 1150 5500
 F 0 "T2" H 1150 5881 50  0000 C CNN
 F 1 "Transformer_1P_1S" H 1150 5790 50  0000 C CNN
-F 2 "pedal-psu:Transformer_V42AJ" H 1150 5500 50  0001 C CNN
+F 2 "PartsStash:Transformer_V42AJ" H 1150 5500 50  0001 C CNN
 F 3 "~" H 1150 5500 50  0001 C CNN
 	1    1150 5500
 	0    -1   1    0   
@@ -64,7 +64,7 @@ U 1 1 5C19C113
 P 950 3100
 F 0 "F1" V 753 3100 50  0000 C CNN
 F 1 "Fuse" V 844 3100 50  0000 C CNN
-F 2 "pedal-psu:Fuse-PTF15" V 880 3100 50  0001 C CNN
+F 2 "PartsStash:Fuse-PTF15" V 880 3100 50  0001 C CNN
 F 3 "~" H 950 3100 50  0001 C CNN
 	1    950  3100
 	1    0    0    -1  
@@ -75,7 +75,7 @@ U 1 1 5C19CA44
 P 950 4850
 F 0 "F2" V 753 4850 50  0000 C CNN
 F 1 "Fuse" V 844 4850 50  0000 C CNN
-F 2 "pedal-psu:Fuse-PTF15" V 880 4850 50  0001 C CNN
+F 2 "PartsStash:Fuse-PTF15" V 880 4850 50  0001 C CNN
 F 3 "~" H 950 4850 50  0001 C CNN
 	1    950  4850
 	1    0    0    1   
@@ -108,7 +108,7 @@ U 1 1 5C19D374
 P 750 3750
 F 0 "J1" H 858 3931 50  0000 C CNN
 F 1 "Conn_01x01_Male" H 750 3850 50  0001 C CNN
-F 2 "pedal-psu:Blade_3866B.68" H 750 3750 50  0001 C CNN
+F 2 "PartsStash:Blade_3866B.68" H 750 3750 50  0001 C CNN
 F 3 "~" H 750 3750 50  0001 C CNN
 	1    750  3750
 	1    0    0    -1  
@@ -119,7 +119,7 @@ U 1 1 5C19DB71
 P 1150 3750
 F 0 "J2" H 1258 3931 50  0000 C CNN
 F 1 "Conn_01x01_Male" H 1258 3840 50  0001 C CNN
-F 2 "pedal-psu:Blade_3866B.68" H 1150 3750 50  0001 C CNN
+F 2 "PartsStash:Blade_3866B.68" H 1150 3750 50  0001 C CNN
 F 3 "~" H 1150 3750 50  0001 C CNN
 	1    1150 3750
 	1    0    0    -1  
@@ -136,10 +136,10 @@ U 1 1 5C19EC27
 P 1150 1350
 F 0 "D1" V 1150 1006 50  0000 R CNN
 F 1 "D_Bridge_+AA-" V 1105 1006 50  0001 R CNN
-F 2 "Diode_THT:Diode_Bridge_Vishay_KBL" H 1150 1350 50  0001 C CNN
+F 2 "PartsStash:Diode_Bridge_TELPOD_GB009_p4mm" H 1150 1350 50  0001 C CNN
 F 3 "~" H 1150 1350 50  0001 C CNN
 	1    1150 1350
-	0    -1   -1   0   
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	1350 1750 1450 1750
@@ -183,7 +183,7 @@ U 1 1 5C1ACA46
 P 2550 1050
 F 0 "U1" H 2550 1292 50  0000 C CNN
 F 1 "LM7809_TO220" H 2550 1201 50  0000 C CNN
-F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 2550 1275 50  0001 C CIN
+F 2 "PartsStash:TO220_Vertical_Radiator_L15mm_W10mm" H 2550 1275 50  0001 C CIN
 F 3 "http://www.fairchildsemi.com/ds/LM/LM7805.pdf" H 2550 1000 50  0001 C CNN
 	1    2550 1050
 	1    0    0    -1  
@@ -239,7 +239,7 @@ U 1 1 5C1A408C
 P 1150 7150
 F 0 "D2" V 1150 6806 50  0000 R CNN
 F 1 "D_Bridge_+AA-" V 1105 6806 50  0001 R CNN
-F 2 "Diode_THT:Diode_Bridge_Vishay_KBL" H 1150 7150 50  0001 C CNN
+F 2 "PartsStash:Diode_Bridge_TELPOD_GB009_p4mm" H 1150 7150 50  0001 C CNN
 F 3 "~" H 1150 7150 50  0001 C CNN
 	1    1150 7150
 	0    -1   -1   0   
@@ -307,12 +307,12 @@ $EndComp
 $Comp
 L Amplifier_Operational:LM324 U2
 U 2 1 5C1EEF4A
-P 4950 2650
-F 0 "U2" H 4950 3017 50  0000 C CNN
-F 1 "LM324" H 4950 2926 50  0000 C CNN
-F 2 "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" H 4900 2750 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 5000 2850 50  0001 C CNN
-	2    4950 2650
+P 4950 1200
+F 0 "U2" H 4950 1567 50  0000 C CNN
+F 1 "LM324" H 4950 1476 50  0000 C CNN
+F 2 "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" H 4900 1300 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 5000 1400 50  0001 C CNN
+	2    4950 1200
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -449,12 +449,12 @@ $EndComp
 $Comp
 L Amplifier_Operational:LM324 U2
 U 1 1 5C24BF08
-P 4950 1200
-F 0 "U2" H 4950 1567 50  0000 C CNN
-F 1 "LM324" H 4950 1476 50  0000 C CNN
-F 2 "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" H 4900 1300 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 5000 1400 50  0001 C CNN
-	1    4950 1200
+P 4950 2650
+F 0 "U2" H 4950 3017 50  0000 C CNN
+F 1 "LM324" H 4950 2926 50  0000 C CNN
+F 2 "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" H 4900 2750 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 5000 2850 50  0001 C CNN
+	1    4950 2650
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -874,7 +874,7 @@ L Device:C C13
 U 1 1 5C441F94
 P 3350 7250
 F 0 "C13" H 3465 7296 50  0000 L CNN
-F 1 "C" H 3465 7205 50  0000 L CNN
+F 1 "100n" H 3465 7205 50  0000 L CNN
 F 2 "Capacitor_SMD:C_1210_3225Metric_Pad1.42x2.65mm_HandSolder" H 3388 7100 50  0001 C CNN
 F 3 "~" H 3350 7250 50  0001 C CNN
 	1    3350 7250
@@ -941,7 +941,7 @@ U 1 1 5C4BEC85
 P 2550 6850
 F 0 "U4" H 2550 7092 50  0000 C CNN
 F 1 "LM7805_TO220" H 2550 7001 50  0000 C CNN
-F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 2550 7075 50  0001 C CIN
+F 2 "PartsStash:TO220_Vertical_Radiator_L15mm_W10mm" H 2550 7075 50  0001 C CIN
 F 3 "http://www.fairchildsemi.com/ds/LM/LM7805.pdf" H 2550 6800 50  0001 C CNN
 	1    2550 6850
 	1    0    0    -1  
@@ -1030,7 +1030,7 @@ U 1 1 5C56D004
 P 2550 5450
 F 0 "U5" H 2550 5692 50  0000 C CNN
 F 1 "LM317_3PinPackage" H 2550 5601 50  0000 C CNN
-F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 2550 5700 50  0001 C CIN
+F 2 "PartsStash:TO220_Vertical_Radiator_L15mm_W10mm" H 2550 5700 50  0001 C CIN
 F 3 "http://www.ti.com/lit/ds/symlink/lm317.pdf" H 2550 5450 50  0001 C CNN
 	1    2550 5450
 	1    0    0    -1  
@@ -1090,7 +1090,7 @@ Wire Wire Line
 	3300 5500 3300 5450
 Connection ~ 3300 5450
 Wire Wire Line
-	3300 5450 3750 5450
+	3300 5450 3550 5450
 Wire Wire Line
 	3000 5800 3000 5850
 Connection ~ 3000 5850
@@ -1107,7 +1107,7 @@ L Device:C C12
 U 1 1 5C6127C2
 P 3300 6050
 F 0 "C12" H 3415 6096 50  0000 L CNN
-F 1 "C" H 3415 6005 50  0000 L CNN
+F 1 "100n" H 3415 6005 50  0000 L CNN
 F 2 "Capacitor_SMD:C_1210_3225Metric_Pad1.42x2.65mm_HandSolder" H 3338 5900 50  0001 C CNN
 F 3 "~" H 3300 6050 50  0001 C CNN
 	1    3300 6050
@@ -1121,20 +1121,20 @@ Wire Wire Line
 $Comp
 L Device:CP C14
 U 1 1 5C640AC4
-P 3750 5850
-F 0 "C14" H 3868 5896 50  0000 L CNN
-F 1 "CP" H 3868 5805 50  0000 L CNN
-F 2 "Capacitor_THT:C_Radial_D6.3mm_H5.0mm_P2.50mm" H 3788 5700 50  0001 C CNN
-F 3 "~" H 3750 5850 50  0001 C CNN
-	1    3750 5850
+P 3850 5850
+F 0 "C14" H 3968 5896 50  0000 L CNN
+F 1 "CP" H 3968 5805 50  0000 L CNN
+F 2 "Capacitor_THT:C_Radial_D6.3mm_H5.0mm_P2.50mm" H 3888 5700 50  0001 C CNN
+F 3 "~" H 3850 5850 50  0001 C CNN
+	1    3850 5850
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	3750 5450 3750 5700
+	3850 5450 3850 5700
 Wire Wire Line
-	3750 6000 3750 6250
+	3850 6000 3850 6250
 Wire Wire Line
-	3750 6250 3300 6250
+	3850 6250 3550 6250
 Connection ~ 3300 6250
 $Comp
 L Device:R_POT RV3
@@ -1153,8 +1153,8 @@ Connection ~ 3150 6250
 Wire Wire Line
 	3150 6250 3300 6250
 Wire Wire Line
-	4300 5450 3750 5450
-Connection ~ 3750 5450
+	4300 5450 3850 5450
+Connection ~ 3850 5450
 Text GLabel 3650 6850 1    50   Input ~ 0
 +5V
 $Comp
@@ -1232,7 +1232,7 @@ U 1 1 5C3975AF
 P 2550 2500
 F 0 "U3" H 2550 2742 50  0000 C CNN
 F 1 "LM7809_TO220" H 2550 2651 50  0000 C CNN
-F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 2550 2725 50  0001 C CIN
+F 2 "PartsStash:TO220_Vertical_Radiator_L15mm_W10mm" H 2550 2725 50  0001 C CIN
 F 3 "http://www.fairchildsemi.com/ds/LM/LM7805.pdf" H 2550 2450 50  0001 C CNN
 	1    2550 2500
 	1    0    0    -1  
@@ -1351,7 +1351,7 @@ U 1 1 5C3AD147
 P 2550 4000
 F 0 "U6" H 2550 4242 50  0000 C CNN
 F 1 "LM7809_TO220" H 2550 4151 50  0000 C CNN
-F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 2550 4225 50  0001 C CIN
+F 2 "PartsStash:TO220_Vertical_Radiator_L15mm_W10mm" H 2550 4225 50  0001 C CIN
 F 3 "http://www.fairchildsemi.com/ds/LM/LM7805.pdf" H 2550 3950 50  0001 C CNN
 	1    2550 4000
 	1    0    0    -1  
@@ -1826,9 +1826,9 @@ Wire Wire Line
 	2100 6250 3000 6250
 Connection ~ 3000 6250
 Wire Wire Line
-	4300 6250 3750 6250
+	4300 6250 3850 6250
 Connection ~ 4300 6250
-Connection ~ 3750 6250
+Connection ~ 3850 6250
 Connection ~ 2100 6250
 Wire Wire Line
 	4000 4800 3650 4800
@@ -1932,4 +1932,25 @@ F 3 "" H 7000 1050 50  0001 C CNN
 $EndComp
 Text GLabel 9250 4600 0    50   Input ~ 0
 BUTTON
+$Comp
+L Device:C C21
+U 1 1 5C3C7E38
+P 3550 5850
+F 0 "C21" H 3600 5950 50  0000 L CNN
+F 1 "100n" H 3600 5750 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1210_3225Metric_Pad1.42x2.65mm_HandSolder" H 3588 5700 50  0001 C CNN
+F 3 "~" H 3550 5850 50  0001 C CNN
+	1    3550 5850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3550 5700 3550 5450
+Connection ~ 3550 5450
+Wire Wire Line
+	3550 5450 3850 5450
+Wire Wire Line
+	3550 6000 3550 6250
+Connection ~ 3550 6250
+Wire Wire Line
+	3550 6250 3300 6250
 $EndSCHEMATC
