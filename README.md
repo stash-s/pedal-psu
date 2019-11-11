@@ -1,7 +1,7 @@
 
 Pedalboard PSU
 
-Release 0.3.0 
+Release 0.4.0 
 
 This version has PCB designed for hand etching.
 
