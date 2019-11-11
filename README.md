@@ -1,5 +1,10 @@
-# pedal-psu
+
 Pedalboard PSU
+
+Release 0.3.0 
+
+This version has PCB designed for hand etching.
+
 
 PCB and brains of smart guitar pedal psu.
 
