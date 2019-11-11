@@ -1,4 +1,4 @@
-16237094530235115
+16181497308909494
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -15186,202 +15186,6 @@ Connector_Molex
 Molex_MicroClasp_55932-1530_1x15_P2.00mm_Vertical
 Molex MicroClasp Wire-to-Board System, 55932-1530, 15 Pins (http://www.molex.com/pdm_docs/sd/559320530_sd.pdf), generated with kicad-footprint-generator
 connector Molex MicroClasp side entry
-0
-15
-15
-Connector_Molex
-Molex_MicroClasp_55935-0210_1x02_P2.00mm_Horizontal
-Molex MicroClasp Wire-to-Board System, 55935-0210, with PCB locator, 2 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
-connector Molex MicroClasp horizontal
-0
-2
-2
-Connector_Molex
-Molex_MicroClasp_55935-0230_1x02_P2.00mm_Horizontal
-Molex MicroClasp Wire-to-Board System, 55935-0230, 2 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
-connector Molex MicroClasp horizontal
-0
-2
-2
-Connector_Molex
-Molex_MicroClasp_55935-0310_1x03_P2.00mm_Horizontal
-Molex MicroClasp Wire-to-Board System, 55935-0310, with PCB locator, 3 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
-connector Molex MicroClasp horizontal
-0
-3
-3
-Connector_Molex
-Molex_MicroClasp_55935-0330_1x03_P2.00mm_Horizontal
-Molex MicroClasp Wire-to-Board System, 55935-0330, 3 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
-connector Molex MicroClasp horizontal
-0
-3
-3
-Connector_Molex
-Molex_MicroClasp_55935-0410_1x04_P2.00mm_Horizontal
-Molex MicroClasp Wire-to-Board System, 55935-0410, with PCB locator, 4 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
-connector Molex MicroClasp horizontal
-0
-4
-4
-Connector_Molex
-Molex_MicroClasp_55935-0430_1x04_P2.00mm_Horizontal
-Molex MicroClasp Wire-to-Board System, 55935-0430, 4 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
-connector Molex MicroClasp horizontal
-0
-4
-4
-Connector_Molex
-Molex_MicroClasp_55935-0510_1x05_P2.00mm_Horizontal
-Molex MicroClasp Wire-to-Board System, 55935-0510, with PCB locator, 5 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
-connector Molex MicroClasp horizontal
-0
-5
-5
-Connector_Molex
-Molex_MicroClasp_55935-0530_1x05_P2.00mm_Horizontal
-Molex MicroClasp Wire-to-Board System, 55935-0530, 5 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
-connector Molex MicroClasp horizontal
-0
-5
-5
-Connector_Molex
-Molex_MicroClasp_55935-0610_1x06_P2.00mm_Horizontal
-Molex MicroClasp Wire-to-Board System, 55935-0610, with PCB locator, 6 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
-connector Molex MicroClasp horizontal
-0
-6
-6
-Connector_Molex
-Molex_MicroClasp_55935-0630_1x06_P2.00mm_Horizontal
-Molex MicroClasp Wire-to-Board System, 55935-0630, 6 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
-connector Molex MicroClasp horizontal
-0
-6
-6
-Connector_Molex
-Molex_MicroClasp_55935-0710_1x07_P2.00mm_Horizontal
-Molex MicroClasp Wire-to-Board System, 55935-0710, with PCB locator, 7 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
-connector Molex MicroClasp horizontal
-0
-7
-7
-Connector_Molex
-Molex_MicroClasp_55935-0730_1x07_P2.00mm_Horizontal
-Molex MicroClasp Wire-to-Board System, 55935-0730, 7 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
-connector Molex MicroClasp horizontal
-0
-7
-7
-Connector_Molex
-Molex_MicroClasp_55935-0810_1x08_P2.00mm_Horizontal
-Molex MicroClasp Wire-to-Board System, 55935-0810, with PCB locator, 8 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
-connector Molex MicroClasp horizontal
-0
-8
-8
-Connector_Molex
-Molex_MicroClasp_55935-0830_1x08_P2.00mm_Horizontal
-Molex MicroClasp Wire-to-Board System, 55935-0830, 8 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
-connector Molex MicroClasp horizontal
-0
-8
-8
-Connector_Molex
-Molex_MicroClasp_55935-0910_1x09_P2.00mm_Horizontal
-Molex MicroClasp Wire-to-Board System, 55935-0910, with PCB locator, 9 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
-connector Molex MicroClasp horizontal
-0
-9
-9
-Connector_Molex
-Molex_MicroClasp_55935-0930_1x09_P2.00mm_Horizontal
-Molex MicroClasp Wire-to-Board System, 55935-0930, 9 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
-connector Molex MicroClasp horizontal
-0
-9
-9
-Connector_Molex
-Molex_MicroClasp_55935-1010_1x10_P2.00mm_Horizontal
-Molex MicroClasp Wire-to-Board System, 55935-1010, with PCB locator, 10 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
-connector Molex MicroClasp horizontal
-0
-10
-10
-Connector_Molex
-Molex_MicroClasp_55935-1030_1x10_P2.00mm_Horizontal
-Molex MicroClasp Wire-to-Board System, 55935-1030, 10 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
-connector Molex MicroClasp horizontal
-0
-10
-10
-Connector_Molex
-Molex_MicroClasp_55935-1110_1x11_P2.00mm_Horizontal
-Molex MicroClasp Wire-to-Board System, 55935-1110, with PCB locator, 11 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
-connector Molex MicroClasp horizontal
-0
-11
-11
-Connector_Molex
-Molex_MicroClasp_55935-1130_1x11_P2.00mm_Horizontal
-Molex MicroClasp Wire-to-Board System, 55935-1130, 11 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
-connector Molex MicroClasp horizontal
-0
-11
-11
-Connector_Molex
-Molex_MicroClasp_55935-1210_1x12_P2.00mm_Horizontal
-Molex MicroClasp Wire-to-Board System, 55935-1210, with PCB locator, 12 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
-connector Molex MicroClasp horizontal
-0
-12
-12
-Connector_Molex
-Molex_MicroClasp_55935-1230_1x12_P2.00mm_Horizontal
-Molex MicroClasp Wire-to-Board System, 55935-1230, 12 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
-connector Molex MicroClasp horizontal
-0
-12
-12
-Connector_Molex
-Molex_MicroClasp_55935-1310_1x13_P2.00mm_Horizontal
-Molex MicroClasp Wire-to-Board System, 55935-1310, with PCB locator, 13 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
-connector Molex MicroClasp horizontal
-0
-13
-13
-Connector_Molex
-Molex_MicroClasp_55935-1330_1x13_P2.00mm_Horizontal
-Molex MicroClasp Wire-to-Board System, 55935-1330, 13 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
-connector Molex MicroClasp horizontal
-0
-13
-13
-Connector_Molex
-Molex_MicroClasp_55935-1410_1x14_P2.00mm_Horizontal
-Molex MicroClasp Wire-to-Board System, 55935-1410, with PCB locator, 14 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
-connector Molex MicroClasp horizontal
-0
-14
-14
-Connector_Molex
-Molex_MicroClasp_55935-1430_1x14_P2.00mm_Horizontal
-Molex MicroClasp Wire-to-Board System, 55935-1430, 14 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
-connector Molex MicroClasp horizontal
-0
-14
-14
-Connector_Molex
-Molex_MicroClasp_55935-1510_1x15_P2.00mm_Horizontal
-Molex MicroClasp Wire-to-Board System, 55935-1510, with PCB locator, 15 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
-connector Molex MicroClasp horizontal
-0
-15
-15
-Connector_Molex
-Molex_MicroClasp_55935-1530_1x15_P2.00mm_Horizontal
-Molex MicroClasp Wire-to-Board System, 55935-1530, 15 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
-connector Molex MicroClasp horizontal
 0
 15
 15
@@ -40348,13 +40152,6 @@ USB Type-C Receptacle Through-hole Right angle
 20
 17
 Connector_USB
-USB_C_Receptacle_HRO_TYPE-C-31-M-12
-USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf
-usb usb-c 2.0 pd
-0
-20
-17
-Connector_USB
 USB_C_Receptacle_JAE_DX07S024WJ1R350
 http://www.jae.com/z-en/pdf_download_exec.cfm?param=SJ117219.pdf
 USB C Type-C Receptacle SMD
@@ -44519,6 +44316,97 @@ single digit 7 segemnt red/green LED
 0
 10
 10
+ESP8266
+ESP-01
+
+
+0
+0
+0
+ESP8266
+ESP-03
+
+
+0
+0
+0
+ESP8266
+ESP-06
+
+
+0
+0
+0
+ESP8266
+ESP-07S
+
+
+0
+0
+0
+ESP8266
+ESP-07v2
+
+
+0
+0
+0
+ESP8266
+ESP-12
+
+
+0
+0
+0
+ESP8266
+ESP-12E
+
+
+0
+0
+0
+ESP8266
+ESP-12E_SMD
+
+
+0
+0
+0
+ESP8266
+ESP-13-WROOM-02
+
+
+0
+0
+0
+ESP8266
+ESP-201
+
+
+0
+0
+0
+ESP8266
+ESP12F-Devkit-V3
+
+
+0
+0
+0
+ESP8266
+NodeMCU-LoLinV3
+
+
+0
+0
+0
+ESP8266
+NodeMCU1.0(12-E)
+
+
+0
+0
+0
 Fiducial
 Fiducial_0.5mm_Mask1.5mm
 Circular Fiducial, 0.5mm bare copper, 1.5mm soldermask opening
@@ -45146,13 +45034,6 @@ Fuse
 Fuse_Littelfuse_395Series
 Fuse, TE5, Littelfuse/Wickmann, No. 460, No560,
 Fuse TE5 Littelfuse/Wickmann No. 460 No560 
-0
-2
-2
-Fuse
-Fuse_Schurter_UMT250
-Surface Mount Fuse, 3 x 10.1 mm, Time-Lag T, 250 VAC, 125 VDC (https://us.schurter.com/bundles/snceschurter/epim/_ProdPool_/newDS/en/typ_UMT_250.pdf)
-Schurter fuse smd
 0
 2
 2
@@ -48944,13 +48825,6 @@ LED SMD right angle  CCA
 3
 3
 LED_SMD
-LED_Osram_Lx_P47F_D2mm_ReverseMount
-OSRAM, reverse-mount LED, SMD, 2mm diameter, http://www.farnell.com/datasheets/2711587.pdf
-LED ReverseMount Reverse
-0
-4
-2
-LED_SMD
 LED_PLCC-2
 LED PLCC-2 SMD package
 LED PLCC-2 SMD
@@ -52367,20 +52241,6 @@ LFCSP 16 0.65
 21
 17
 Package_CSP
-LFCSP-16-1EP_4x4mm_P0.65mm_EP2.4x2.4mm
-LFCSP, 16 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-16/cp-16-40.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
-LFCSP NoLead
-0
-21
-17
-Package_CSP
-LFCSP-16-1EP_4x4mm_P0.65mm_EP2.4x2.4mm_ThermalVias
-LFCSP, 16 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-16/cp-16-40.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
-LFCSP NoLead
-0
-31
-17
-Package_CSP
 LFCSP-20-1EP_4x4mm_P0.5mm_EP2.1x2.1mm
 20-Lead Frame Chip Scale Package - 4x4x0.9 mm Body [LFCSP], (see http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_20_6.pdf)
 LFCSP 0.5
@@ -54544,20 +54404,6 @@ QFN DFN_QFN
 91
 49
 Package_DFN_QFN
-QFN-48-1EP_8x8mm_P0.5mm_EP6.2x6.2mm
-QFN, 48 Pin (https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232H.pdf#page=49), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-74
-49
-Package_DFN_QFN
-QFN-48-1EP_8x8mm_P0.5mm_EP6.2x6.2mm_ThermalVias
-QFN, 48 Pin (https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232H.pdf#page=49), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-111
-49
-Package_DFN_QFN
 QFN-52-1EP_7x8mm_P0.5mm_EP5.41x6.45mm
 QFN, 52 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-qfn/QFN_52_05-08-1729.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
 QFN DFN_QFN
@@ -54879,20 +54725,6 @@ TQFN NoLead
 0
 21
 17
-Package_DFN_QFN
-TQFN-20-1EP_5x5mm_P0.65mm_EP3.1x3.1mm
-TQFN, 20 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0140.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py
-TQFN NoLead
-0
-25
-21
-Package_DFN_QFN
-TQFN-20-1EP_5x5mm_P0.65mm_EP3.1x3.1mm_ThermalVias
-TQFN, 20 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0140.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py
-TQFN NoLead
-0
-35
-21
 Package_DFN_QFN
 TQFN-24-1EP_4x4mm_P0.5mm_EP2.8x2.8mm_PullBack
 TQFN, 24 Pin (https://ams.com/documents/20143/36005/AS1115_DS000206_1-00.pdf/3d3e6d35-b184-1329-adf9-2d769eb2404f), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
@@ -62950,52 +62782,118 @@ TO-264-5 Vertical RM 3.81mm
 0
 5
 5
-PartsStash
-AliExpress55mmBarrelJack
+Parts
+AliExpress55mmBarelJack
 
 
 0
 6
 4
-PartsStash
-Blade_3866B.68
-Molex KK-254 Interconnect System, old/engineering part number: AE-6410-02A example for new part number: 22-27-2021, 2 Pins (http://www.molex.com/pdm_docs/sd/022272021_sd.pdf), generated with kicad-footprint-generator
-connector Molex KK-254 side entry
+Parts
+DO-214AA
+DO214AC PACKAGE. MONODIRECTIONAL.
+DO214AC PACKAGE. MONODIRECTIONAL.
 0
 2
-1
-PartsStash
-DPACK
-<b>DPAK</b><p>
-PLASTIC PACKAGE CASE 369C-01<br>
-Source: http://www.onsemi.co.jp .. LM317M-D.PDF
-
-0
-3
-3
-PartsStash
-DPACK2
-<b>DPAK</b><p>
-PLASTIC PACKAGE CASE 369C-01<br>
-Source: http://www.onsemi.co.jp .. LM317M-D.PDF
-
-0
-3
-3
-PartsStash
+2
+Parts
 D_MELF-RM10_Universal_Handsoldering
 Diode, Universal, MELF, RM10, Handsoldering, SMD, Thruhole,
 Diode Universal MELF RM10 Handsoldering SMD Thruhole 
 0
 2
 2
-PartsStash
-Diode_Bridge_TELPOD_GB009_p4mm
-Vishay KBL rectifier package, 5.08mm pitch, see http://www.vishay.com/docs/88655/kbl005.pdf
-Vishay KBL rectifier diode bridge
+Parts
+IN-12
+
+
+0
+12
+12
+Parts
+IN-12_0.8mm
+
+
+0
+12
+12
+Parts
+IN-12_1.6mm
+
+
+0
+13
+12
+Parts
+LED_3528_3.5x2.8mm
+https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf
+LED RGB NeoPixel Mini
 0
 4
 4
+Parts
+Thermal Via
+
+
+0
+1
+1
+Parts
+esp12e
+
+
+0
+6
+6
+Parts
+ins-1
+
+
+0
+2
+2
+PartsStash
+AliExpress55mmBarrelJack
+
+
+0
+0
+0
+PartsStash
+Blade_3866B.68
+
+
+0
+0
+0
+PartsStash
+DPACK
+
+
+0
+0
+0
+PartsStash
+DPACK2
+
+
+0
+0
+0
+PartsStash
+D_MELF-RM10_Universal_Handsoldering
+
+
+0
+0
+0
+PartsStash
+Diode_Bridge_TELPOD_GB009_p4mm
+
+
+0
+0
+0
 PartsStash
 Funknetzwerkuhr_Ausf_C
 
@@ -63005,96 +62903,275 @@ Funknetzwerkuhr_Ausf_C
 0
 PartsStash
 Fuse-PTF15
+
+
+0
+0
+0
+PartsStash
+IN-12
+
+
+0
+0
+0
+PartsStash
+IN-12_0.8mm
+
+
+0
+0
+0
+PartsStash
+IN-12_0.8mm_simple
+
+
+0
+0
+0
+PartsStash
+IN-12_1.6mm
+
+
+0
+0
+0
+PartsStash
+INS-1
+
+
+0
+0
+0
+PartsStash
+LED_3528_3.5x2.8mm
+
+
+0
+0
+0
+PartsStash
+L_Toroid_Horizontal_D16.8mm_P6mm_AliExpress
+
+
+0
+0
+0
+PartsStash
+MPSA42-TSOT-23_HandSoldering
+
+
+0
+0
+0
+PartsStash
+MPSA92-TSOT-23_HandSoldering
+
+
+0
+0
+0
+PartsStash
+MountingHole_3.2mm_M3_ISO14580_Pad
+
+
+0
+0
+0
+PartsStash
+R_0805_2012Metric_Pad1.15x1.40mm_HandSolder_Value
+
+
+0
+0
+0
+PartsStash
+TO-263-2
+
+
+0
+0
+0
+PartsStash
+TO220VR
+
+
+0
+0
+0
+PartsStash
+TO220_Vertical_Radiator_L15mm_W10mm
+
+
+0
+0
+0
+PartsStash
+TSOT-23_HandSoldering
+
+
+0
+0
+0
+PartsStash
+Thermal_Via
+
+
+0
+0
+0
+PartsStash
+Transformer_V42AJ
+
+
+0
+0
+0
+PartsStash_RW
+AliExpress55mmBarrelJack
+
+
+0
+6
+4
+PartsStash_RW
+Blade_3866B.68
+Molex KK-254 Interconnect System, old/engineering part number: AE-6410-02A example for new part number: 22-27-2021, 2 Pins (http://www.molex.com/pdm_docs/sd/022272021_sd.pdf), generated with kicad-footprint-generator
+connector Molex KK-254 side entry
+0
+2
+1
+PartsStash_RW
+DPACK
+<b>DPAK</b><p>
+PLASTIC PACKAGE CASE 369C-01<br>
+Source: http://www.onsemi.co.jp .. LM317M-D.PDF
+
+0
+3
+3
+PartsStash_RW
+DPACK2
+<b>DPAK</b><p>
+PLASTIC PACKAGE CASE 369C-01<br>
+Source: http://www.onsemi.co.jp .. LM317M-D.PDF
+
+0
+3
+3
+PartsStash_RW
+D_MELF-RM10_Universal_Handsoldering
+Diode, Universal, MELF, RM10, Handsoldering, SMD, Thruhole,
+Diode Universal MELF RM10 Handsoldering SMD Thruhole 
+0
+2
+2
+PartsStash_RW
+Diode_Bridge_TELPOD_GB009_p4mm
+Vishay KBL rectifier package, 5.08mm pitch, see http://www.vishay.com/docs/88655/kbl005.pdf
+Vishay KBL rectifier diode bridge
+0
+4
+4
+PartsStash_RW
+Funknetzwerkuhr_Ausf_C
+
+
+0
+0
+0
+PartsStash_RW
+Fuse-PTF15
 Littelfuse, resettable fuse, PTC, polyswitch LVR100, Ih 1A http://www.littelfuse.com/~/media/electronics/datasheets/resettable_ptcs/littelfuse_ptc_lvr_catalog_datasheet.pdf.pdf
 LVR100 PTC resettable polyswitch 
 0
 2
 2
-PartsStash
+PartsStash_RW
 IN-12_0.8mm_simple
 
 
 0
 12
 12
-PartsStash
+PartsStash_RW
 LED_3528_3.5x2.8mm
 https://www.aliexpress.com/item/Free-Shipping-100pcs-SMT-SMD-LED-3528-1210-RGB-Red-Green-Blue-Common-Anode-Light-Emitting/32339390158.html
 SMD RGB LED Common Anode 20mA SMT Chip Tricolor NeoPixel Mini
 0
 4
 4
-PartsStash
+PartsStash_RW
 L_Toroid_Horizontal_D16.8mm_P6mm_AliExpress
 L_Toroid, Horizontal series, Radial, pin pitch=14.70mm, , diameter=16.8mm, Vishay, TJ3, http://www.vishay.com/docs/34079/tj.pdf
 L_Toroid Horizontal series Radial pin pitch 14.70mm  diameter 16.8mm Vishay TJ3
 0
 2
 2
-PartsStash
+PartsStash_RW
 MPSA42-TSOT-23_HandSoldering
 5-pin TSOT23 package, http://cds.linear.com/docs/en/packaging/SOT_5_05-08-1635.pdf
 TSOT-23 Hand-soldering
 0
 3
 3
-PartsStash
+PartsStash_RW
 MPSA92-TSOT-23_HandSoldering
 5-pin TSOT23 package, http://cds.linear.com/docs/en/packaging/SOT_5_05-08-1635.pdf
 TSOT-23 Hand-soldering
 0
 3
 3
-PartsStash
+PartsStash_RW
 MountingHole_3.2mm_M3_ISO14580_Pad
 Mounting Hole 3.2mm, M3, ISO14580
 mounting hole 3.2mm m3 iso14580
 0
 1
 1
-PartsStash
+PartsStash_RW
 R_0805_2012Metric_Pad1.15x1.40mm_HandSolder_Value
 Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
 resistor handsolder
 0
 2
 2
-PartsStash
+PartsStash_RW
 TO-263-2
 TO-263 / D2PAK / DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-3-1/
 D2PAK DDPAK TO-263 D2PAK-3 TO-263-3 SOT-404
 0
 7
 3
-PartsStash
+PartsStash_RW
 TO220VR
 <b>TO 200 vertical</b>
 
 0
 3
 3
-PartsStash
+PartsStash_RW
 TO220_Vertical_Radiator_L15mm_W10mm
 <b>TO 200 vertical</b>
 
 0
 3
 3
-PartsStash
+PartsStash_RW
 TSOT-23_HandSoldering
 5-pin TSOT23 package, http://cds.linear.com/docs/en/packaging/SOT_5_05-08-1635.pdf
 TSOT-23 Hand-soldering
 0
 3
 3
-PartsStash
+PartsStash_RW
 Thermal_Via
 
 
 0
 1
 1
-PartsStash
+PartsStash_RW
 Transformer_V42AJ
 Trafo, Printtrafo, CHK, EI42, 5VA, 1x Sec,
 Trafo Printtrafo CHK EI42 5VA 1x Sec 
@@ -64750,13 +64827,6 @@ Relay_THT
 Relay_SPDT_Finder_34.51_Vertical
 Relay SPDT, Finder Type34.51, vertical/standing form, see https://gfinder.findernet.com/public/attachments/34/EN/S34USAEN.pdf
 Relay SPDT Finder
-0
-5
-5
-Relay_THT
-Relay_SPDT_Finder_36.11
-FINDER 36.11, SPDT relay, 10A, https://gfinder.findernet.com/public/attachments/36/EN/S36EN.pdf
-spdt relay
 0
 5
 5
@@ -66566,34 +66636,6 @@ Current transducer
 0
 10
 10
-Sensor_Motion
-InvenSense_QFN-24_3x3mm_P0.4mm
-24-Lead Plastic QFN (3mm x 3mm); Pitch 0.4mm; EP 1.7x1.54mm; for InvenSense motion sensors; keepout area marked (Package see: https://store.invensense.com/datasheets/invensense/MPU9250REV1.0.pdf; See also https://www.invensense.com/wp-content/uploads/2015/02/InvenSense-MEMS-Handling.pdf)
-QFN 0.4
-0
-24
-24
-Sensor_Motion
-InvenSense_QFN-24_3x3mm_P0.4mm_NoMask
-24-Lead Plastic QFN (3mm x 3mm); Pitch 0.4mm; EP 1.7x1.54mm; for InvenSense motion sensors; Mask removed below exposed pad; keepout area marked (Package see: https://store.invensense.com/datasheets/invensense/MPU9250REV1.0.pdf; See also https://www.invensense.com/wp-content/uploads/2015/02/InvenSense-MEMS-Handling.pdf)
-QFN 0.4
-0
-25
-24
-Sensor_Motion
-InvenSense_QFN-24_4x4mm_P0.5mm
-24-Lead Plastic QFN (4mm x 4mm); Pitch 0.5mm; EP 2.7x2.6mm; for InvenSense motion sensors; keepout area marked (Package see: https://store.invensense.com/datasheets/invensense/MPU-6050_DataSheet_V3%204.pdf; See also https://www.invensense.com/wp-content/uploads/2015/02/InvenSense-MEMS-Handling.pdf)
-QFN 0.5
-0
-24
-24
-Sensor_Motion
-InvenSense_QFN-24_4x4mm_P0.5mm_NoMask
-24-Lead Plastic QFN (4mm x 4mm); Pitch 0.5mm; EP 2.7x2.6mm; for InvenSense motion sensors; Mask removed below exposed pad; keepout area marked (Package see: https://store.invensense.com/datasheets/invensense/MPU-6050_DataSheet_V3%204.pdf; See also https://www.invensense.com/wp-content/uploads/2015/02/InvenSense-MEMS-Handling.pdf)
-QFN 0.5
-0
-25
-24
 Sensor_Pressure
 Freescale_98ARH99066A
 https://www.nxp.com/docs/en/data-sheet/MPXH6250A.pdf
@@ -66615,13 +66657,6 @@ pressure sensor automotive honeywell
 0
 3
 3
-Sensor_Voltage
-LEM_LV25-P
-LEM LV25-P Voltage transducer, https://www.lem.com/sites/default/files/products_datasheets/lv_25-p.pdf
-LEM Hall Effect Voltage transducer
-0
-5
-5
 Socket
 3M_Textool_240-1288-00-0602J_2x20_P2.54mm
 3M 40-pin zero insertion force socket, though-hole, row spacing 25.4 mm (1000 mils)
@@ -70297,83 +70332,6 @@ THT terminal block RND 205-00308 pitch 10mm size 115x8.1mm^2 drill 1.3mm pad 2.5
 0
 12
 12
-TerminalBlock_TE-Connectivity
-TerminalBlock_TE_1-282834-0_1x10_P2.54mm_Horizontal
-Terminal Block TE 1-282834-0, 10 pins, pitch 2.54mm, size 25.86x6.5mm^2, drill diamater 1.1mm, pad diameter 2.1mm, see http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F282834%7FC1%7Fpdf%7FEnglish%7FENG_CD_282834_C1.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_TE-Connectivity
-THT Terminal Block TE 1-282834-0 pitch 2.54mm size 25.86x6.5mm^2 drill 1.1mm pad 2.1mm
-0
-10
-10
-TerminalBlock_TE-Connectivity
-TerminalBlock_TE_1-282834-1_1x11_P2.54mm_Horizontal
-Terminal Block TE 1-282834-1, 11 pins, pitch 2.54mm, size 28.4x6.5mm^2, drill diamater 1.1mm, pad diameter 2.1mm, see http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F282834%7FC1%7Fpdf%7FEnglish%7FENG_CD_282834_C1.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_TE-Connectivity
-THT Terminal Block TE 1-282834-1 pitch 2.54mm size 28.4x6.5mm^2 drill 1.1mm pad 2.1mm
-0
-11
-11
-TerminalBlock_TE-Connectivity
-TerminalBlock_TE_1-282834-2_1x12_P2.54mm_Horizontal
-Terminal Block TE 1-282834-2, 12 pins, pitch 2.54mm, size 30.94x6.5mm^2, drill diamater 1.1mm, pad diameter 2.1mm, see http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F282834%7FC1%7Fpdf%7FEnglish%7FENG_CD_282834_C1.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_TE-Connectivity
-THT Terminal Block TE 1-282834-2 pitch 2.54mm size 30.94x6.5mm^2 drill 1.1mm pad 2.1mm
-0
-12
-12
-TerminalBlock_TE-Connectivity
-TerminalBlock_TE_282834-2_1x02_P2.54mm_Horizontal
-Terminal Block TE 282834-2, 2 pins, pitch 2.54mm, size 5.54x6.5mm^2, drill diamater 1.1mm, pad diameter 2.1mm, see http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F282834%7FC1%7Fpdf%7FEnglish%7FENG_CD_282834_C1.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_TE-Connectivity
-THT Terminal Block TE 282834-2 pitch 2.54mm size 5.54x6.5mm^2 drill 1.1mm pad 2.1mm
-0
-2
-2
-TerminalBlock_TE-Connectivity
-TerminalBlock_TE_282834-3_1x03_P2.54mm_Horizontal
-Terminal Block TE 282834-3, 3 pins, pitch 2.54mm, size 8.08x6.5mm^2, drill diamater 1.1mm, pad diameter 2.1mm, see http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F282834%7FC1%7Fpdf%7FEnglish%7FENG_CD_282834_C1.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_TE-Connectivity
-THT Terminal Block TE 282834-3 pitch 2.54mm size 8.08x6.5mm^2 drill 1.1mm pad 2.1mm
-0
-3
-3
-TerminalBlock_TE-Connectivity
-TerminalBlock_TE_282834-4_1x04_P2.54mm_Horizontal
-Terminal Block TE 282834-4, 4 pins, pitch 2.54mm, size 10.620000000000001x6.5mm^2, drill diamater 1.1mm, pad diameter 2.1mm, see http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F282834%7FC1%7Fpdf%7FEnglish%7FENG_CD_282834_C1.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_TE-Connectivity
-THT Terminal Block TE 282834-4 pitch 2.54mm size 10.620000000000001x6.5mm^2 drill 1.1mm pad 2.1mm
-0
-4
-4
-TerminalBlock_TE-Connectivity
-TerminalBlock_TE_282834-5_1x05_P2.54mm_Horizontal
-Terminal Block TE 282834-5, 5 pins, pitch 2.54mm, size 13.16x6.5mm^2, drill diamater 1.1mm, pad diameter 2.1mm, see http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F282834%7FC1%7Fpdf%7FEnglish%7FENG_CD_282834_C1.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_TE-Connectivity
-THT Terminal Block TE 282834-5 pitch 2.54mm size 13.16x6.5mm^2 drill 1.1mm pad 2.1mm
-0
-5
-5
-TerminalBlock_TE-Connectivity
-TerminalBlock_TE_282834-6_1x06_P2.54mm_Horizontal
-Terminal Block TE 282834-6, 6 pins, pitch 2.54mm, size 15.7x6.5mm^2, drill diamater 1.1mm, pad diameter 2.1mm, see http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F282834%7FC1%7Fpdf%7FEnglish%7FENG_CD_282834_C1.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_TE-Connectivity
-THT Terminal Block TE 282834-6 pitch 2.54mm size 15.7x6.5mm^2 drill 1.1mm pad 2.1mm
-0
-6
-6
-TerminalBlock_TE-Connectivity
-TerminalBlock_TE_282834-7_1x07_P2.54mm_Horizontal
-Terminal Block TE 282834-7, 7 pins, pitch 2.54mm, size 18.240000000000002x6.5mm^2, drill diamater 1.1mm, pad diameter 2.1mm, see http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F282834%7FC1%7Fpdf%7FEnglish%7FENG_CD_282834_C1.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_TE-Connectivity
-THT Terminal Block TE 282834-7 pitch 2.54mm size 18.240000000000002x6.5mm^2 drill 1.1mm pad 2.1mm
-0
-7
-7
-TerminalBlock_TE-Connectivity
-TerminalBlock_TE_282834-8_1x08_P2.54mm_Horizontal
-Terminal Block TE 282834-8, 8 pins, pitch 2.54mm, size 20.78x6.5mm^2, drill diamater 1.1mm, pad diameter 2.1mm, see http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F282834%7FC1%7Fpdf%7FEnglish%7FENG_CD_282834_C1.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_TE-Connectivity
-THT Terminal Block TE 282834-8 pitch 2.54mm size 20.78x6.5mm^2 drill 1.1mm pad 2.1mm
-0
-8
-8
-TerminalBlock_TE-Connectivity
-TerminalBlock_TE_282834-9_1x09_P2.54mm_Horizontal
-Terminal Block TE 282834-9, 9 pins, pitch 2.54mm, size 23.32x6.5mm^2, drill diamater 1.1mm, pad diameter 2.1mm, see http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F282834%7FC1%7Fpdf%7FEnglish%7FENG_CD_282834_C1.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_TE-Connectivity
-THT Terminal Block TE 282834-9 pitch 2.54mm size 23.32x6.5mm^2 drill 1.1mm pad 2.1mm
-0
-9
-9
 TerminalBlock_WAGO
 TerminalBlock_WAGO_236-101_1x01_P5.00mm_45Degree
 Terminal Block WAGO 236-101, 45Degree (cable under 45degree), 1 pins, pitch 5mm, size 6.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
@@ -71823,6 +71781,187 @@ transformer flyback
 0
 10
 10
+VFD_Clock
+1X04_90
+<b>PIN HEADER</b>
+
+0
+4
+4
+VFD_Clock
+2X10
+<b>PIN HEADER</b>
+
+0
+20
+20
+VFD_Clock
+0204_7
+<b>RESISTOR</b><p>
+type 0204, grid 7.5 mm
+
+0
+2
+2
+VFD_Clock
+0207_10
+<b>RESISTOR</b><p>
+type 0207, grid 10 mm
+
+0
+2
+2
+VFD_Clock
+0207_15
+<b>RESISTOR</b><p>
+type 0207, grid 15mm
+
+0
+2
+2
+VFD_Clock
+0411_15
+<b>RESISTOR</b><p>
+type 0411, grid 15 mm
+
+0
+2
+2
+VFD_Clock
+B3F-10XX
+<b>OMRON SWITCH</b>
+
+0
+4
+4
+VFD_Clock
+C025-025X050
+<b>CAPACITOR</b><p>
+grid 2.5 mm, outline 2.5 x 5 mm
+
+0
+2
+2
+VFD_Clock
+C050-024X044
+<b>CAPACITOR</b><p>
+grid 5 mm, outline 2.4 x 4.4 mm
+
+0
+2
+2
+VFD_Clock
+DIL8
+<B>Dual In Line</B><p>
+package type P
+
+0
+8
+8
+VFD_Clock
+DO41-7.6
+<b>DO41</b> 7.6mm x 2mm<p>
+Source: http://www.diodes.com/datasheets/ds23001.pdf
+
+0
+2
+2
+VFD_Clock
+DP10080_V1
+
+
+0
+0
+0
+VFD_Clock
+DPACK
+<b>DPAK</b><p>
+PLASTIC PACKAGE CASE 369C-01<br>
+Source: http://www.onsemi.co.jp .. LM317M-D.PDF
+
+0
+3
+3
+VFD_Clock
+ESP12E-SMD
+ESP8266 Module 12E
+
+0
+22
+22
+VFD_Clock
+S64W
+<b>POTENTIOMETER</b><p>
+Spectrol
+
+0
+3
+3
+VFD_Clock
+SOP28X
+<b>Small Outline Package</b> X large
+
+0
+28
+28
+VFD_Clock
+SPC4077
+<b>DC POWER JACK 2mm</b><br> Right Angle, Through Hole, Rated 5A at 16VDC, PC Terminals<p>
+Source: www.spctechnology.com .. 84N1161.pdf<br>
+Distributor: <b>Farnell (www.Farnell.de)</b><br>
+Created by Robert Siegler
+
+0
+3
+3
+VFD_Clock
+TO225AA
+<b>TO-225</b><p>
+grid 2.54 mm, vertical
+
+0
+3
+3
+VFD_Clock
+TOROID
+<B>INDUCTOR</B><p>
+distributor Schukat
+
+0
+4
+4
+VFD_Clock
+TT2D5L
+<b>ELECTROLYTIC CAPACITOR</b><p>
+diameter 5 mm, grid 2.54 mm
+
+0
+2
+2
+VFD_Clock
+TT5D11L
+<b>ELECTROLYTIC CAPACITOR</b><p>
+diameter 11 mm, grid 5.08 mm
+
+0
+2
+2
+VFD_Clock
+TT5D11R
+<b>ELECTROLYTIC CAPACITOR</b><p>
+diameter 11 mm, grid 5.08 mm
+
+0
+2
+2
+VFD_Clock
+VT400
+<b>Photoconductive Cell</b> VT400 Series<p>
+Source: http://optoelectronics.perkinelmer.com/content/Datasheets/DTS_vt400seriesdatasheet.pdf
+
+0
+2
+2
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins
