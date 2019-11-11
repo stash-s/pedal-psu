@@ -1,9 +1,9 @@
 
 Pedalboard PSU
 
-Release 0.4.0 
+Release 0.9
 
-This version has PCB designed for hand etching.
+This version has PCB designed for JLCPCB.
 
 
 PCB and brains of smart guitar pedal psu.
